@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "桜流し",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-22T12:54:31.060242Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "桜流し",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_桜流し_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "桜流し",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_桜流し_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sakura Nagashi -2021 Remastered- [桜流し]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_Sakura_Nagashi_-2021_Remastered-_[桜流し]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sakura Nagashi [桜流し]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/04_Sakura_Nagashi_[桜流し]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "桜流し",
+      "artist": "Ujico* feat. Sennzai",
+      "has_synced": true,
+      "path": "select/05_桜流し_Ujico__feat._Sennzai.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "桜流し",
+      "artist": "Ujico*,",
+      "has_synced": true,
+      "path": "select/06_桜流し_Ujico_,.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "桜流し (2021 Remaster)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/07_桜流し_(2021_Remaster)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "桜流し",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/08_桜流し_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "桜流し",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/09_桜流し_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "桜流し",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/10_桜流し_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "桜流し",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/11_桜流し_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "桜流し",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/12_桜流し_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "桜流し (feat. Sennzai)",
+      "artist": "Ujico*",
+      "has_synced": true,
+      "path": "select/13_桜流し_(feat._Sennzai)_Ujico.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "桜流し",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_桜流し_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "桜流し",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_桜流し_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "桜流し",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_桜流し_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "桜流し",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_桜流し_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "桜流し",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_05_桜流し_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "桜流し",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_06_桜流し_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "桜流し",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_07_桜流し_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "桜流し",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_08_桜流し_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "桜流し",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_09_桜流し_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "桜流し",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_10_桜流し_宇多田_ヒカル.txt"
+    }
+  ]
+}
